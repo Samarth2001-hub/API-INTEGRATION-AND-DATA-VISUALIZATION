@@ -16,5 +16,8 @@ In the first task I created a weather map by using the python programming langua
 
 OUTPUT :
 
-![Image](https://github.com/user-attachments/assets/b6207175-2bd4-466d-aace-c5c422ce0ae9)
+ ![Image](https://github.com/user-attachments/assets/89420311-e2be-41cf-8281-0feb6127723c)
+
+
+
 
